@@ -1,0 +1,11 @@
+body {
+  background-color: gray;
+}
+
+#we_hate_programming {
+  background-image: url(../img/lmao_rock_and_clouds.png);
+  background-size: cover;
+  background-color: gray;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
